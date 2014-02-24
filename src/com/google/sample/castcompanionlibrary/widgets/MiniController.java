@@ -45,7 +45,7 @@ import java.net.URL;
  * A compound component that provides a superset of functionalities required for the global access
  * requirement. This component provides an image for the album art, a play/pause button, a seekbar
  * for trick-play with current time and duration and a mute/unmute button. Clients can add this
- * compound component to their layout xml and register that with the instance of {@link CastMnager}
+ * compound component to their layout xml and register that with the instance of {@link CastManager}
  * by using the following pattern:<br/>
  * 
  * <pre>
